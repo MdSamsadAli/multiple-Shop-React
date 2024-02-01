@@ -1,0 +1,13 @@
+a {
+  cursor: pointer;
+}
+.carousel-item {
+  display: block;
+}
+
+.sticky-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
